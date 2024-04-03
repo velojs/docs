@@ -15,3 +15,10 @@ This project, and therefore this documentation, is under early development. The 
 open-source, and we welcome contributions from the community. If you have any questions,
 suggestions, or feedback, please feel free to reach out to us on
 [GitHub](https://github.com/velojs/velo).
+
+## What does "Velo" mean?
+
+-   Velo is an italian word which can mean "fast", even though it literally translates to "veil".
+-   Veloc is an italian word which literally means "fast".
+-   Veloce is an italian word which means "speed".
+-   Velo could also be interpreted as a short form of "velocity".
