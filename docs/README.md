@@ -1,7 +1,7 @@
 ---
-description: Welcome to Velo (Vay-low).
+description: Welcome to Velo *(Vay-low)*.
 ---
 
 # Introduction
 
-ong bruh :neutral\_face:
+ong bruh :neutral_face:
