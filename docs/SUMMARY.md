@@ -1,5 +1,7 @@
 # Table of contents
 
+-   [Introduction](introduction.md)
+
 ## Getting Started
 
--   [Introduction](getting-started/introduction.md)
+-   [Quick Start](getting-started/quick-start.md)
