@@ -93,12 +93,12 @@ see your new Velo project.
 You can set up your project structure however you like, but we recommend the following:
 
 ```
-app/
-|── src/
-│   └── index.ts <- The entry point of your app
-│   └── lib/
-│   └── routes/
-│   └── types/
-|── tests/
-...
+./
+├── tests/
+    └── ...
+├── src/
+    └── index.ts <- The entry point of your app
+    └── lib/
+    └── routes/
+    └── types/
 ```
