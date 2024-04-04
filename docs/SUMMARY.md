@@ -2,4 +2,4 @@
 
 ## Getting Started
 
--   [Introduction](introduction.md)
+-   [Introduction](getting-started/introduction.md)
