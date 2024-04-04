@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-* [Introduction](README.md)
+-   [Introduction](introduction.md)
