@@ -94,11 +94,11 @@ You can set up your project structure however you like, but we recommend the fol
 
 ```
 app/
-├── src/
+|── src/
 │   └── index.ts <- The entry point of your app
 │   └── lib/
 │   └── routes/
 │   └── types/
-├── tests/
+|── tests/
 ...
 ```
